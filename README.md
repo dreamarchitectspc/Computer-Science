@@ -20,6 +20,9 @@ http://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering
 
 - Stanford:
 https://cs.stanford.edu/degrees/ug/ProgramSheets.shtml
+
+- Oxford
+https://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science?wssl=1
   
 Помимо этого, есть огромное количество материалов от любителей и профессионалов:
 
@@ -74,9 +77,20 @@ http://web.mit.edu/alexmv/6.037/sicp.pdf
 - - https://www.coursera.org/learn/algorithms-part1
 - - https://www.coursera.org/learn/algorithms-part2
 
-6) Компьютерные сети
+6) Компьютерные сети:
 - https://www.amazon.com/Computer-Networking-Problems-Solutions-innovative/dp/1587145049/ref=sr_1_16?s=books&ie=UTF8&qid=1522525173&sr=1-16&keywords=computer+networking
 - https://www.amazon.com/Computer-Networking-Top-Down-Approach-6th/dp/0132856204/ref=sr_1_fkmr0_3?s=books&ie=UTF8&qid=1522525225&sr=1-3-fkmr0&keywords=Computer+Networking%3A+A+Top-Down+Approach+%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C
 - Лекции
 - - https://www.coursera.org/courses?query=computer%20network
+- - https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about
 
+7) Базы данных:
+- https://www.amazon.com/Readings-Database-Systems-Joseph-Hellerstein/dp/0262693143
+- https://www.amazon.com/Database-System-Concepts-Abraham-Silberschatz/dp/0073523321/
+- https://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1934356921/ref=sr_1_7?s=books&ie=UTF8&qid=1522530072&sr=1-7&keywords=database
+
+8) Компиляторы:
+- https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811?pldnSite=1
+- https://www.cs.princeton.edu/~appel/modern/
+- Лекции
+- - https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about
