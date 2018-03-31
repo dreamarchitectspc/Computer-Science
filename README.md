@@ -8,17 +8,17 @@
 Если ты хочешь учиться по расписанию топовых университетов США или Европы, то просто гугли "%university% curriculum". Так ты сможешь
 отыскать расписание и порядок предметов в вузе своей мечты.
 
-MIT:
-http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
+  MIT:
+  http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/
 
-Caltech:
-http://catalog.caltech.edu/current/cs
-http://www.cms.caltech.edu/academics/ugrad_cs
+  Caltech:
+  http://catalog.caltech.edu/current/cs
+  http://www.cms.caltech.edu/academics/ugrad_cs
 
-Waterloo University:
-http://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering
+  Waterloo University:
+  http://ugradcalendar.uwaterloo.ca/page/ENG-Software-Engineering
 
 Помимо этого, есть огромное количество материалов от любителей и профессионалов:
 
-Изучи компьютерные науки самостоятельно:
+  Изучи компьютерные науки самостоятельно:
 https://teachyourselfcs.com/#programming
