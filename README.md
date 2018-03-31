@@ -39,3 +39,6 @@ https://github.com/ossu/computer-science#introduction-to-computer-science
 http://newstar.rinet.ru/~goga/sicp/sicp.pdf
 - ENG
 http://web.mit.edu/alexmv/6.037/sicp.pdf
+- Лекции
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
+https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9
