@@ -94,3 +94,6 @@ http://web.mit.edu/alexmv/6.037/sicp.pdf
 - https://www.cs.princeton.edu/~appel/modern/
 - Лекции
 - - https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about
+
+9) Распределенные системы:
+- https://www.cs.columbia.edu/~du/ds/
